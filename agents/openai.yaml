@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bib Verify"
+  short_description: "Verify bibliography entries against authoritative sources"
+  default_prompt: "Use $bib-verify to verify bibliography entries against authoritative sources and produce a report."
